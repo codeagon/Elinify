@@ -1,0 +1,12 @@
+{
+	"disableAutoUpdate": false,
+	"name": "Elinify",
+	"author": "Pentagon",
+	"description": "Makes all chars around you elins",
+	"donationUrl": "https://ko-fi.com/codeagon",
+	"version": "1.0",
+	"servers": [
+		"https://raw.githubusercontent.com/codeagon/Elinify/master/"
+	],
+	"supportUrl": "https://discord.gg/uhDAXWQ"
+}

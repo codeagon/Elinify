@@ -1,0 +1,11 @@
+{
+	"files": {
+		"LICENSE": "0b383d5a63da644f628d99c33976ea6487ed89aaa59f0b3257992deac1171e6b",
+		"README.md": "155110e566477dfd8852b90ba7445ab3e5bcd5db1368d1aac7a90fc4ae3218f9",
+		"index.js": "ae40429365307919fa45eefe6a249418455e5dd80a2469f5c9e2fcb118a1b27a",
+		"module.json": "501822afb94dae6738350c065b9819a1f96eff5ef0a62bad81ce4a41ac12884f"
+	},
+	"defs": {
+		"S_SPAWN_USER": 14
+	}
+}
